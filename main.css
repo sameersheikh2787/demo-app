@@ -3,3 +3,9 @@ body    {
     color: blue;
 
 }
+
+.media{
+    background-color: blue;
+    font-size: 12px;
+    text-emphasis: none;
+}
