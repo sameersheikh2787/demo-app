@@ -11,3 +11,9 @@ body    {
     font-size: 12px;
     text-emphasis: none;
 }
+
+nav { color: #000;}
+.manu { background-color: red;}
+header{
+    stroke-width: 0ch;
+}
