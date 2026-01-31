@@ -1,3 +1,3 @@
 <?php
-echo "This is a tesing file";
+echo "This is a tesing file"; 
 ?>
