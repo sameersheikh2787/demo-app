@@ -1,4 +1,3 @@
 <?php
-echo "This is a tesing file"; 
-echo "tests dsd  fdfsfsd ";
+echo "This is a tesing file rwarretest r fdsf" ;
 ?>
