@@ -5,3 +5,9 @@ body    {
 }
 .service { color: aqua;}
 .page {font-size: large;}
+
+.media{
+    background-color: blue;
+    font-size: 12px;
+    text-emphasis: none;
+}
