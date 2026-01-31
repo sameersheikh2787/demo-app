@@ -1,3 +1,9 @@
 <?php
-echo "This is a tesing file rwarretest r fdsf" ;
+$sum=0;
+$a=1;
+$b=5;
+
+$sum = $a + $b;
+
+echo $sum;
 ?>
